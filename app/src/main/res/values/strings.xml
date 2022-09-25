@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">pRice</string>
+    <string name="title_activity_bottom2">BottomActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Recent_Items">
+        <item>Half of Cheetos Chips</item>
+        <item>Garlic Sauce from PizzaHut</item>
+        <item>Electric Scooter</item>
+        <item>1 Post Malone Concert Ticket for Sale~~</item>
+        <item>Linear Agebra textbook for MATH355</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>$1</item>
+        <item>$1</item>
+        <item>$300</item>
+        <item>$70</item>
+        <item>$50</item>
+    </string-array>
+
+    <string name="pRice">Select Category</string>
+    <string-array name="categories">
+        <item>Books</item>
+        <item>Electronics</item>
+        <item>Food</item>
+        <item>Furnitures</item>
+        <item>Clothing</item>
+        <item>Home</item>
+        <item>Beauty</item>
+    </string-array>
+
+</resources>
